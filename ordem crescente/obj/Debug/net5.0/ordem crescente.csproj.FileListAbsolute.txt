@@ -1,0 +1,16 @@
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\ordem crescente\bin\Debug\net5.0\ordem crescente.exe
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\ordem crescente\bin\Debug\net5.0\ordem crescente.deps.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\ordem crescente\bin\Debug\net5.0\ordem crescente.runtimeconfig.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\ordem crescente\bin\Debug\net5.0\ordem crescente.runtimeconfig.dev.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\ordem crescente\bin\Debug\net5.0\ordem crescente.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\ordem crescente\bin\Debug\net5.0\ref\ordem crescente.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\ordem crescente\bin\Debug\net5.0\ordem crescente.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\ordem crescente\obj\Debug\net5.0\ordem crescente.csproj.AssemblyReference.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\ordem crescente\obj\Debug\net5.0\ordem crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\ordem crescente\obj\Debug\net5.0\ordem crescente.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\ordem crescente\obj\Debug\net5.0\ordem crescente.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\ordem crescente\obj\Debug\net5.0\ordem crescente.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\ordem crescente\obj\Debug\net5.0\ordem crescente.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\ordem crescente\obj\Debug\net5.0\ref\ordem crescente.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\ordem crescente\obj\Debug\net5.0\ordem crescente.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\ESTRUTURAS DE DECISÃO\ordem crescente\obj\Debug\net5.0\ordem crescente.genruntimeconfig.cache
